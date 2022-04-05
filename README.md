@@ -1,1 +1,3 @@
 # Paint
+某個區塊鏈公司通知我去應徵,看了他們GitHub上的專案大部分用TypeScript,
+所以看了幾個小時TypeScript的書之後,手動實作polymorphism(多形)概念小程式
